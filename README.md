@@ -8,3 +8,4 @@ https://github.com/JessieJingxuGao/Supply-Chain-Inventory/blob/master/Wanger-Whi
 https://github.com/JessieJingxuGao/Collection-of-Mini-Projects-in-OR/blob/master/Modeling%20Matching%20Kidneys%20as%20a%20Network%20Problem.ipynb
 
 3. Solving Shortest Path Problem by calling AMPL </br>
+https://github.com/JessieJingxuGao/Collection-of-Mini-Projects-in-OR/tree/master/Solving-Shortest-Path-Problem-by-Calling-AMPL
