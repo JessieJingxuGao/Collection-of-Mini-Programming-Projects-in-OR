@@ -1,0 +1,27 @@
+set NODES := N1 N2 N3 N4 N5 N6 N7;
+
+set ARCS := (N1,N2) (N1,N7) (N3,N4) (N3,N7) (N5,N4) (N5,N6) (N5,N7) 
+(N6,N2) (N6,N5) (N7,N2) (N7,N5);
+
+param: ava :=
+N1 50
+N2 -90
+N3 60
+N4 -20; 
+
+param: dis:=
+N1 N2  20
+N1 N7  3
+N3 N4  30
+N3 N7  9
+N5 N4  2
+N5 N6  4
+N5 N7  10
+N6 N2  8
+N6 N5  4
+N7 N2  40
+N7 N5  10;
+
+
+
+
